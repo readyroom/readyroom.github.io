@@ -2,7 +2,7 @@
 title: "Who is Ricardo Armond aka "The Kaliphat"
 date: 2022-06-20T15:34:30-04:00
 categories:
-  - master
+  - blog
 tags:
   - kali
   - update
